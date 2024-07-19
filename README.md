@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SanskariVishal
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on this topic and we will learn together
+-  I’m looking to collaborate on this topic and we will learn together
 - 
 
 <!---
